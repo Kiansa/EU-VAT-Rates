@@ -15,7 +15,7 @@
   "Denmark": { "name": "moms", "rate": "25" },
   "EE": { "name": "Käibemaks", "rate": "20" },
   "Estonia": { "name": "Käibemaks", "rate": "20" },
-  "EL": { "name": "ΦΠΑ", "rate": "24" },
+  "GR": { "name": "ΦΠΑ", "rate": "24" },
   "Greece": { "name": "ΦΠΑ", "rate": "24" },
   "ES": { "name": "IVA", "rate": "21" },
   "Spain": { "name": "IVA", "rate": "21" },
